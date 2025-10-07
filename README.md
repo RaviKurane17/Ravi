@@ -61,8 +61,9 @@
 ### ⚙️ Languages Usage Breakdown
 
 - **Java:** 75%  
-- **Python:** 10%  
-- **Others (HTML, CSS, JS, MySQL, etc.):** 15%
+- **Python:** 8%
+- **MySQL:** 8  
+- **Others (HTML, CSS, JS, , etc.):** 9%
 
 ---
 
