@@ -62,7 +62,7 @@
 
 - **Java:** 75%  
 - **Python:** 8%
-- **MySQL:** 8  
+- **MySQL:** 8%  
 - **Others (HTML, CSS, JS, , etc.):** 9%
 
 ---
