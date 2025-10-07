@@ -51,8 +51,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikurane17&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikurane17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-10%25-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Others-15%25-lightgrey?style=for-the-badge" />
 </p>
 
 ---
