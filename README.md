@@ -51,9 +51,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Python-10%25-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Others-15%25-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Others-15%25-9CA3AF?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
