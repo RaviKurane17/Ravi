@@ -1,76 +1,172 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">💻 Passionate Java Developer from India</h3>
+```markdown
+<div align="center">
+
+# 👋 Hello, I'm Ravi Kurane
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Android+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20To%20My%20GitHub&fontAlign=50&fontSize=45&animation=fadeIn&fontColor=ffffff"/>
+
+<img src="https://komarev.com/ghpvc/?username=RaviKurane17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate Java Backend Developer from India
+
+🚀 I enjoy building scalable backend applications using Java and Spring Boot.
+
+🌱 Currently Learning
+
+- Spring Boot
+- Android Development
+- REST APIs
+- Microservices
+- System Design
+
+🔭 Current Project
+
+⭐ Hotel Reservation System
+
+👯 Looking to Collaborate On
+
+- Java Backend Projects
+- Spring Boot APIs
+- Open Source Projects
+
+💬 Ask Me About
+
+- Core Java
+- Spring Boot
+- Hibernate
+- MySQL
+- REST APIs
+
+📫 Email
+
+**ravikurane44@gmail.com**
+
+🌐 Portfolio
+
+https://ravikurane17.netlify.app
+
+⚡ Fun Fact
+
+> "I love converting ideas into real software."
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technology |
+|---------|------------|
+| 🏨 Hotel Reservation System | Java • Spring Boot • MySQL |
+| 📄 AI Resume Analyzer | Python • NLP • Machine Learning |
+| 🚌 College Bus Management System | Node.js • Express • MySQL |
+| 🤖 AI Desktop Voice Assistant | Python • Gemini API |
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravikurane17&label=Profile%20views&color=0e75b6&style=flat" alt="ravikurane17" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,androidstudio,python,react,html,css,javascript,nodejs,git,github,vscode,postman,mongodb,firebase"/>
+
 </p>
 
 ---
 
-### 🚀 About Me
+# 📈 GitHub Analytics
 
-- 🔭 I’m currently working on **[Hotel Reservation System](https://github.com/RaviKurane17/HOTEL_RESERVATION_SYSTEM.git)**
-- 🌱 I’m learning **Android Development** and exploring **Spring Boot APIs**
-- 👯 I’m looking to collaborate on **[Personal Finance Manager](https://github.com/RaviKurane17/HOTEL_RESERVATION_SYSTEM.git)**
-- 🤝 I’m open to help with **EduFlow – Smart Learning Management System**
-- 👨‍💻 Check out my portfolio: **[ravikurane17.netlify.app](https://ravikurane17.netlify.app)**
-- 💬 Ask me about **Core Java, MySQL, Spring Boot**
-- 📫 Reach me at **ravikurane44@gmail.com**
-- ⚡ Fun fact: *I keep getting new project ideas every week!*
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaviKurane17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🌐 Connect with Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviKurane17&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/ravindra-kurane" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
-  </a>
-  <a href="https://instagram.com/ravikurane_17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🧰 Languages & Tools
+# 🔥 GitHub Streak
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/></a>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RaviKurane17&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+# 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Others-15%25-9CA3AF?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviKurane17&theme=tokyo-night"/>
 
-### ⚙️ Languages Usage Breakdown
-
-- **Java:** 75%  
-- **Python:** 8%
-- **MySQL:** 8%  
-- **Others (HTML, CSS, JS, , etc.):** 9%
+</div>
 
 ---
 
-### 🏆 Achievements
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravikurane17&theme=radical&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaviKurane17&theme=tokyonight&row=1&column=7&margin-w=15"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ravindra-kurane">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/ravikurane_17">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:ravikurane44@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://ravikurane17.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
+```
